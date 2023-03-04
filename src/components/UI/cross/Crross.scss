@@ -1,0 +1,15 @@
+.react-cross {
+  transition: 0.3s ease;
+  @media (max-width: 610px) {
+    img {
+      width: 40px;
+    }
+  }
+}
+.react-cross:hover {
+  transform: scale(1.2);
+}
+.react-cross:active {
+  transform: scale(1.1);
+  transition: 0.1s ease;
+}
