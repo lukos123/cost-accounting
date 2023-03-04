@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cost-accounting/static/css/main.e4fc08a6.css",
-    "main.js": "/cost-accounting/static/js/main.4938471c.js",
+    "main.css": "/cost-accounting/static/css/main.49a3074a.css",
+    "main.js": "/cost-accounting/static/js/main.d45e5971.js",
     "static/media/stacked-waves-haikei.svg": "/cost-accounting/static/media/stacked-waves-haikei.caaf83e6ce2981098d1c.svg",
     "index.html": "/cost-accounting/index.html",
-    "static/media/cross-circle-svgrepo-com.svg": "/cost-accounting/static/media/cross-circle-svgrepo-com.82b1f7c82a5a731c57e08dcbddac981e.svg",
-    "main.e4fc08a6.css.map": "/cost-accounting/static/css/main.e4fc08a6.css.map",
-    "main.4938471c.js.map": "/cost-accounting/static/js/main.4938471c.js.map"
+    "static/media/cross-circle-svgrepo-com.svg": "/cost-accounting/static/media/cross-circle-svgrepo-com.9e03e2f0a5d75d6fd1d87b2fb85f2cd3.svg",
+    "main.49a3074a.css.map": "/cost-accounting/static/css/main.49a3074a.css.map",
+    "main.d45e5971.js.map": "/cost-accounting/static/js/main.d45e5971.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4fc08a6.css",
-    "static/js/main.4938471c.js"
+    "static/css/main.49a3074a.css",
+    "static/js/main.d45e5971.js"
   ]
 }
