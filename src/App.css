@@ -11,33 +11,23 @@
 
 }
 
-@media (max-width:610px) {
-  .container{
-    width:500px;
 
-  }
-}
-@media (max-width:550px) {
-  .container{
-    width:100%;
-    min-height: 100%;
-border-radius: 0;
-     margin: 0;
-  }
-}
+
 /* @media (max-width:500px) {
   .container{ 
     
   }
-  
-} */
+}*/
+
 body{
   background-image: url(./stacked-waves-haikei.svg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover ;
+  background-color: #004CBB;
   background-position: left;
   background-attachment: fixed;
   animation: background 120s linear infinite alternate ;
+  
 
 }
 @keyframes background{
@@ -48,5 +38,23 @@ body{
   100%{
     background-position: right;
 
+  }
+}
+@media (max-width:610px) {
+  .container{
+    width:500px;
+
+  }
+  body{
+    background-size:  auto 1500px;
+  
+  }
+}
+@media (max-width:550px) {
+  .container{
+    width:100%;
+    min-height: 100%;
+    border-radius: 0;
+    margin: 0;
   }
 }

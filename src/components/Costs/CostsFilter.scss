@@ -123,6 +123,16 @@ $secondary-color: rgb(239, 149, 52);
   @media (max-width: 610px) {
     &__expenses {
       flex-wrap: wrap;
+      width: 450px;
+      margin-left: auto;
+      margin-right: auto;
+      @media (max-width: 480px) {
+        width: 400px;
+      }
+      @media (max-width: 480px) {
+        width: 305px;
+        justify-content: space-between;
+      }
     }
     &__item {
       margin: 0 20px;
